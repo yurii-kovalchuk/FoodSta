@@ -5,7 +5,7 @@
   "homepage": "https://yurii-kovalchuk.github.io/FoodSta",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /webdev-final-project-28/"
+    "build": "parcel build src/*.html --public-url /FoodSta/"
   },
   "repository": {
     "type": "git",
