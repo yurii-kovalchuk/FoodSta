@@ -1,11 +1,11 @@
 {
   "name": "food-sta-html-css",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A website of the food delivery company FoodSta",
   "homepage": "https://yurii-kovalchuk.github.io/food-sta-html-css",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /FoodSta/"
+    "build": "parcel build src/*.html --public-url /food-sta-html-css/"
   },
   "repository": {
     "type": "git",
