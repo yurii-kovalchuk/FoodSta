@@ -9,6 +9,7 @@ My contribution is:
  - fixed some styles bugs in other sections (offerings, subscribe).
 ## Technical details
 This project was created based on the Parcel. To acquainted and configure additional features, [refer to the documentation](https://parceljs.org/).
+### Technology stack: HTML, CSS, SASS(SCSS), JavaScript
 
 HTML & CSS coding of the site according to the template.
 
